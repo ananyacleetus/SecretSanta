@@ -1,4 +1,0 @@
-#Tue Dec 03 03:50:55 CST 2019
-base.0=/Users/apple/Documents/SecretSantaApp/SecretSantaApp/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
